@@ -23,6 +23,10 @@
 		},
 		{
 			"path": "ql"
+		},
+		{
+			"name": "[MQCOMP3310-2023/workshop-5-sql-injections-and-logging-Chris-Ikimis-Healey source archive]",
+			"uri": "codeql-zip-archive://1-144/c:\\Users\\Chris Ikimis-Healey\\AppData\\Roaming\\Code\\User\\workspaceStorage\\8cf527a732f4d3d3201fb8302751e1b6\\GitHub.vscode-codeql\\java\\java\\src.zip"
 		}
 	],
 	"settings": {
